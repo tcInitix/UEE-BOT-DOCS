@@ -1,63 +1,145 @@
-UEE Bot Privacy Policy
+UEE BOT PRIVACY POLICY
 Last Updated: June 19, 2026
-1. Introduction
-This Privacy Policy explains how The Coalition / TCICORPS (“we,” “us,” or “the Operator”) collects, uses, stores, and protects information when you use the UEE Bot (the “Bot”) on The Coalition Discord server.
-By using the Bot, you consent to the practices described in this Privacy Policy. This policy supplements our Terms of Service and Discord’s Privacy Policy. If you do not agree with this policy, please stop using the Bot.
-2. Information We Collect
+
+================================================================================
+
+1. INTRODUCTION
+
+This Privacy Policy explains how The Coalition / TCICORPS ("we," "us," or "the 
+Operator") collects, uses, stores, and protects information when you use the 
+UEE Bot (the "Bot") on The Coalition Discord server.
+
+By using the Bot, you consent to the practices described in this Privacy Policy. 
+This policy supplements our Terms of Service and Discord's Privacy Policy. If 
+you do not agree with this policy, please do not use the Bot.
+
+================================================================================
+
+2. INFORMATION WE COLLECT
+
 We collect the following types of information:
 
-Discord Account Information: User ID, username, display name, avatar, and roles.
+Discord Account Information:
+  • User ID, username, display name, avatar, and roles
+
 Usage and Activity Data:
-Messages in monitored channels (for XP calculation and moderation).
-Interactions with Bot commands (e.g., /feedback, /register, /pvp).
-Ticket content and transcripts.
-Feedback submissions (named or anonymous).
+  • Messages in monitored channels (for XP calculation and moderation)
+  • Interactions with Bot commands (e.g., /feedback, /register, /pvp)
+  • Ticket content and transcripts
+  • Feedback submissions (named or anonymous)
 
-RSI Verification Data: RSI handle and the verification code you provide when using the /register command.
-Leveling and Progress Data: XP points, levels, and earned roles.
-PVP Tracking Data: Kill/loss statistics and related ship information.
-Server Logs: Message edits, deletions, member joins/leaves, and other moderation-related audit logs.
+RSI Verification Data:
+  • RSI handle and the verification code you provide when using the /register 
+    command
 
-We do not collect your Discord password, payment information, or any sensitive personal data beyond what is necessary for the Bot’s features.
-3. How We Use Your Information
+Leveling and Progress Data:
+  • XP points, levels, and earned roles
+
+PVP Tracking Data:
+  • Kill/loss statistics and related ship information
+
+Server Logs:
+  • Message edits, deletions, member joins/leaves, and other moderation-related 
+    audit logs
+
+We do not collect your Discord password, payment information, or any sensitive 
+personal data beyond what is necessary for the Bot's features.
+
+================================================================================
+
+3. HOW WE USE YOUR INFORMATION
+
 We use the collected information to:
 
-Provide and operate Bot features (leveling, verification, tickets, feedback, image generation, PVP tracking, etc.).
-Maintain server moderation and security.
-Generate personalized content (e.g., banners and division cards using your avatar and display name).
-Improve the Bot and respond to support requests.
-Comply with legal obligations and prevent abuse.
+  • Provide and operate Bot features (leveling, verification, tickets, feedback, 
+    image generation, PVP tracking, etc.)
+  • Maintain server moderation and security
+  • Generate personalized content (e.g., banners and division cards using your 
+    avatar and display name)
+  • Improve the Bot and respond to support requests
+  • Comply with legal obligations and prevent abuse
 
-4. Data Sharing
+================================================================================
+
+4. DATA SHARING
+
 We do not sell your data to third parties.
+
 We may share information only in the following cases:
 
-With Discord, as required to operate the Bot via the Discord API.
-Public RSI profile lookups (one-time, voluntary) when you use the /register command.
-With law enforcement or government authorities when required by law.
-To trusted staff members of The Coalition for moderation, support, and server management purposes.
+  • With Discord, as required to operate the Bot via the Discord API
+  • Public RSI profile lookups (one-time, voluntary) when you use the /register 
+    command
+  • With law enforcement or government authorities when required by law
+  • To trusted staff members of The Coalition for moderation, support, and 
+    server management purposes
 
-5. Data Storage and Security
+================================================================================
 
-Most Bot data is stored in secure local JSON files on our hosting server (e.g., leveling.json, data/pvp.json, userRegisterCodes.json).
-Some data (tickets, logs, feedback) is also stored in Discord channels accessible only to authorized staff.
-We take reasonable technical and organizational measures to protect your data. However, no system is completely secure, and we cannot guarantee absolute security.
+5. DATA STORAGE AND SECURITY
 
-6. Data Retention
-We retain data only as long as necessary to provide the service or as required for legitimate purposes (e.g., audit logs for moderation). You may request deletion of your data at any time (see Section 8).
-7. Anonymous Feedback
-Anonymous feedback is designed to protect your identity from public view. However, we may still access metadata for abuse prevention, moderation, or legal compliance if the content violates our rules or the law.
-8. Your Rights
+Most Bot data is stored in secure local JSON files on our hosting server 
+(e.g., leveling.json, data/pvp.json, userRegisterCodes.json).
+
+Some data (tickets, logs, feedback) is also stored in Discord channels 
+accessible only to authorized staff.
+
+We take reasonable technical and organizational measures to protect your data. 
+However, no system is completely secure, and we cannot guarantee absolute 
+security.
+
+================================================================================
+
+6. DATA RETENTION
+
+We retain data only as long as necessary to provide the service or as required 
+for legitimate purposes (e.g., audit logs for moderation). You may request 
+deletion of your data at any time (see Section 8).
+
+================================================================================
+
+7. ANONYMOUS FEEDBACK
+
+Anonymous feedback is designed to protect your identity from public view. 
+However, we may still access metadata for abuse prevention, moderation, or 
+legal compliance if the content violates our rules.
+
+================================================================================
+
+8. YOUR RIGHTS
+
 You have the right to:
 
-Request access to the personal data we hold about you.
-Request correction or deletion of your data (XP, feedback, registration info, PVP stats, etc.).
-Object to or restrict certain processing of your data.
+  • Request access to the personal data we hold about you
+  • Request correction or deletion of your data (XP, feedback, registration 
+    info, PVP stats, etc.)
+  • Object to or restrict certain processing of your data
 
-To exercise these rights, please open a HelpDesk ticket in The Coalition Discord server or contact staff directly. We will respond to your request within a reasonable timeframe, subject to operational and legal requirements.
-9. Children’s Privacy
-The Bot is not intended for children under 13 years of age. If you are under 13, you may not use the Bot. We do not knowingly collect data from children under 13. If we become aware that we have collected such data, we will take steps to delete it.
-10. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Material changes will be announced in the Discord server. Your continued use of the Bot after changes are posted constitutes your acceptance of the updated policy.
-11. Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please open a ticket via the HelpDesk panel or contact TCICORPS staff directly.
+To exercise these rights, please open a HelpDesk ticket in The Coalition 
+Discord server or contact staff directly. We will respond to your request 
+within a reasonable timeframe, subject to operational and legal constraints.
+
+================================================================================
+
+9. CHILDREN'S PRIVACY
+
+The Bot is not intended for children under 13 years of age. If you are under 
+13, you may not use the Bot. We do not knowingly collect data from children 
+under 13. If we become aware that we have collected information from a child 
+under 13, we will delete it promptly.
+
+================================================================================
+
+10. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. Material changes will be 
+announced in the Discord server. Your continued use of the Bot after changes 
+are posted constitutes your acceptance of the updated Privacy Policy.
+
+================================================================================
+
+11. CONTACT US
+
+If you have any questions or concerns about this Privacy Policy or our data 
+practices, please open a ticket via the HelpDesk panel or contact TCICORPS 
+staff directly.
