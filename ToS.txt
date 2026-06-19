@@ -1,0 +1,82 @@
+UEE Bot Terms of Service
+Last Updated: June 19, 2026
+1. Acceptance of Terms
+By inviting, adding, interacting with, or otherwise using the UEE Bot (the “Bot”) operated by The Coalition / TCICORPS (“we,” “us,” or “the Operator”) on Discord, you (“you” or “the User”) agree to be bound by these Terms of Service (“Terms”).
+If you do not agree to these Terms, you must immediately cease using the Bot and may leave the affiliated Discord server.
+These Terms supplement Discord’s Terms of Service and Community Guidelines, which you must also follow.
+2. Description of Service
+The Bot provides various community management and utility features for The Coalition Discord server, including but not limited to:
+
+Slash commands such as /banner, /divisions, /feedback, /org, /pvp, /rank, /ranks, /register, /tracker, /say, and /dm.
+A support ticket system (HelpDesk, Reports & Complaints, Suggestions, Staff Applications) with automatic transcript generation.
+Division role selection panels.
+An XP and leveling system that grants Discord roles based on server activity.
+Attributed and anonymous feedback systems.
+RSI (Roberts Space Industries) verification to confirm membership in the TCICORPS organization.
+Logging of message edits, deletions, and member join/leave events to staff-only channels.
+Monitoring of thecoalition.gg and related public endpoints.
+Image generation (e.g., banners and division cards) using user avatars and display names.
+PVP kill/loss tracking and other Star Citizen-themed utilities.
+
+We may add, modify, or remove features at any time without prior notice.
+3. Eligibility
+You must meet the following requirements to use the Bot:
+
+Be at least 13 years of age (or the minimum age required by applicable law in your jurisdiction).
+Have the legal capacity to enter into these Terms.
+Not be barred from using Discord under its Terms of Service.
+
+4. Acceptable Use
+You agree not to:
+
+Use the Bot for any unlawful, harmful, harassing, defamatory, abusive, or fraudulent purpose.
+Attempt to exploit, reverse engineer, decompile, scrape, spam, abuse, or interfere with the Bot or its infrastructure.
+Submit false, misleading, or impersonating information through any Bot feature, ticket, registration, or feedback.
+Harvest, store, or redistribute information about other users without authorization.
+Bypass or attempt to bypass moderation, leveling, role assignment, ticket, or verification systems (including XP farming or use of alternate accounts).
+Use administrative commands (/say, /dm, etc.) to impersonate staff or send unsolicited/harmful content.
+Submit content (including via anonymous feedback, tickets, or generated images) that violates Discord’s rules or contains illegal material, threats, hate speech, child sexual content, doxxing, malware, or other prohibited material.
+
+We reserve the right to revoke access, blacklist users, delete data, or report violations to Discord or law enforcement as appropriate.
+5. Data Collection and Processing
+When you interact with the Bot, we may collect and process the following data:
+
+Discord User ID, username, display name, avatar — For identification, leveling, and banner generation.
+Message content (in monitored channels) — For XP awards, logging, and moderation.
+Feedback and suggestions (named or anonymous) — For community improvement.
+Ticket content and transcripts — For support resolution and audit purposes.
+RSI handle and verification code — For verifying TCICORPS organization membership.
+XP, levels, and roles — For the leveling system.
+PVP statistics (kills, losses, ship names) — For the PVP tracking feature.
+Audit logs (message edits, deletions, joins, leaves) — For server moderation.
+
+We do not sell your data. We only share data with third parties as necessary to operate the Bot (e.g., Discord API, public RSI profile lookups during voluntary verification) or when legally required.
+6. Anonymous Feedback Disclaimer
+The anonymous /feedback command is designed to hide your identity from public staff embeds. However, for moderation, abuse prevention, and legal compliance, the Bot or Discord may retain metadata that could identify the submitter in cases of abuse, threats, or illegal content. Do not use this feature to submit prohibited content (see Section 4).
+7. RSI Verification
+The /register command performs a one-time public lookup of the RSI Citizen profile you provide to verify:
+
+That the profile lists TCICORPS (The Coalition) as an organization, and
+That the unique verification code we issued appears in your bio.
+
+By using this feature, you confirm that the RSI handle belongs to you and consent to this public-page lookup. We do not log into RSI or collect your credentials.
+8. In-Server Roles, Ranks, and Privileges
+All XP, levels, division roles, ranks, and other privileges granted by the Bot are non-transferable, have no monetary value, and confer no real-world rights. They may be reset, modified, or removed at any time at the discretion of The Coalition staff. No refunds or compensation will be provided.
+9. Star Citizen Trademarks
+Star Citizen, Squadron 42, RSI, and related names, logos, and assets are trademarks of Cloud Imperium Games Corporation and/or Roberts Space Industries Corp. The Coalition / TCICORPS is an independent, player-run organization. The Bot is not affiliated with, endorsed by, or sponsored by Cloud Imperium Games.
+10. Availability and Disclaimer of Warranty
+The Bot is provided “AS IS” and “AS AVAILABLE” without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+We do not guarantee that the Bot will be uninterrupted, error-free, secure, or that your data (XP, levels, tickets, feedback, etc.) will be preserved indefinitely. You use the Bot at your own risk.
+11. Limitation of Liability
+To the fullest extent permitted by law, The Coalition, TCICORPS, the Bot’s developers, operators, contributors, and staff shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of data, profits, goodwill, roles, or levels arising from your use of the Bot.
+12. Indemnification
+You agree to indemnify and hold harmless The Coalition, TCICORPS, and the Bot’s operators and staff from any claims, damages, liabilities, or expenses (including reasonable legal fees) arising from your use of the Bot, your violation of these Terms, or any content you submit.
+13. Termination
+We may suspend, restrict, or terminate your access to the Bot at any time, with or without notice, for any reason, including violation of these Terms or Discord’s policies.
+You may stop using the Bot at any time by leaving the server or ceasing interaction with it. Upon a reasonable request to staff, we will attempt to delete your stored data (XP, feedback, registration info, PVP stats), subject to legitimate operational and audit retention needs.
+14. Changes to These Terms
+We may update these Terms at any time. Material changes will be announced in the Discord server. Your continued use of the Bot after such changes constitutes acceptance of the revised Terms.
+15. Contact
+For questions, data deletion requests, or concerns, please open a ticket via the HelpDesk panel in The Coalition Discord server or contact TCICORPS staff directly.
+
+By using the UEE Bot, you acknowledge that you have read, understood, and agreed to these Terms of Service.
